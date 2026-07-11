@@ -38,8 +38,8 @@ Here are a few of my recent projects:
 
 ## 📊 GitHub Stats
 
-![Ajmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdajmal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdajmal&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api?username=mhmdajmal
+https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdajmal
 ---
 
 ## 🌐 Connect with Me
