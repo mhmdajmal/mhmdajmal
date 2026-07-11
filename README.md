@@ -39,7 +39,7 @@ Here are a few of my recent projects:
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdajmal&theme=radical)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?user=mhmdajmal&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhmdajmal&layout=compact&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
 ---
 
 ## 🌐 Connect with Me
