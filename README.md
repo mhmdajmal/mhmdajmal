@@ -1,10 +1,11 @@
 # 🚀 About Me
 
 🎓 I'm an undergraduate student at the **University of Jaffna**, pursuing a degree in **Computer Science** 👨‍🎓  
-💡 Passionate about **AI**, **Machine Learning**, **Data Science**, and **Software Engineering**  
-🌱 Currently learning **Java**, **Python**, and **Web Development**  
-🛠 Enjoy solving **coding challenges** and building **creative side projects**  
-📚 Always eager to explore **new technologies** and improve my skills  
+☁️ Passionate about **DevOps Engineering**, **Cloud Computing**, **AI Engineering**, **Machine Learning** and **MLOps**  
+🌱 Currently exploring **Linux**, **Docker**, **Kubernetes**, **AWS**, **CI/CD**, and **Infrastructure as Code**  
+💻 Working with **Java**, **Python**, **JavaScript**, **React**, **SQL**, and **MongoDB**  
+🛠 Enjoy building **real-world projects**, automating workflows, and exploring **AI-powered solutions**  
+📚 Always eager to explore **emerging technologies** and continuously improve my skills
 
 ---
 
@@ -32,15 +33,18 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects & Learning
 
-Here are a few of my recent projects:
+Here are some of the technologies and projects I'm currently exploring:
 
-- 📚 **Learning Linux** – improving command-line skills and system administration  
-- 🌐 **Exploring Web Development** – HTML, CSS, JavaScript, and responsive design  
-- 🤖 **Studying python Fundamentals**   
-- 🛠 **Mastering Git & GitHub** – version control, repositories, and collaboration  
-
+- 🐧 **Linux & System Administration** – practicing command-line operations and system management
+- 🐳 **Docker & Kubernetes** – building containerized applications and exploring orchestration
+- ☁️ **AWS Cloud Projects** – experimenting with cloud infrastructure and deployment
+- ⚙️ **CI/CD Automation** – working with GitHub Actions and Jenkins
+- 🏗️ **Infrastructure as Code** – exploring Terraform and infrastructure automation
+- 🤖 **AI & MLOps** – exploring AI engineering and machine learning deployment
+- 💻 **Full-Stack Development** – building applications using React, JavaScript, Python, and MongoDB
+- 🔧 **Git & GitHub** – managing repositories, version control, and collaborative development
 
 
 ---
